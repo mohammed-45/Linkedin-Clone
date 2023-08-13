@@ -1,5 +1,5 @@
 # Live Preview: https://linkedin-clone-80499.web.app/
-
+![linkedIn](https://github.com/mohammed-45/Linkedin-Clone/assets/113661322/e8bcca5f-4e36-4232-8c04-a27feee0489e)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
